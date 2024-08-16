@@ -1,1 +1,117 @@
+**Probability and Statistics Notes**
+This repository contains detailed notes on various topics in probability and statistics. Each topic covers fundamental concepts and provides insights into their applications and mathematical foundations.
 
+Table of Contents
+--> Introduction to Probability and Statistics
+- Overview of fundamental concepts and definitions.
+
+--> Population and Sample
+- Understanding the difference between population and sample data.
+
+--> Gaussian/Normal Distribution and its PDF (Probability Density Function)
+- Characteristics of the normal distribution and its probability density function.
+
+--> CDF (Cumulative Distribution Function) of Gaussian/Normal Distribution
+- Explanation of the cumulative distribution function and its significance.
+
+--> Symmetric Distribution, Skewness, and Kurtosis
+- Analysis of distribution shapes, skewness, and kurtosis measures.
+
+--> Standard Normal Variate (Z) and Standardization
+- Converting distributions to the standard normal form.
+
+--> Kernel Density Estimation
+- Non-parametric way to estimate the probability density function of a random variable.
+
+--> Sampling Distribution & Central Limit Theorem
+- Explanation of sampling distributions and the central limit theorem.
+
+--> Q-Q Plot: How to Test if a Random Variable is Normally Distributed
+- Visual method to assess normality of data.
+
+--> How Distributions are Used
+- Various applications and significance of probability distributions.
+
+--> Chebyshev's Inequality
+- Theorem describing the bounds of probability distributions.
+
+--> Discrete and Continuous Uniform Distributions
+- Overview of uniform distributions and their properties.
+
+--> How to Randomly Sample Data Points (Uniform Distribution)
+- Techniques for random sampling using the uniform distribution.
+
+--> Bernoulli and Binomial Distributions
+- Concepts and applications of Bernoulli and binomial experiments.
+
+--> Log-Normal Distribution
+- Analysis of the log-normal distribution and its uses.
+
+--> Power Law Distribution
+- Understanding the power law distribution and its characteristics.
+
+--> Box-Cox Transform
+- Data transformation technique for stabilizing variance.
+
+--> Applications of Non-Gaussian Distributions
+- Practical applications of distributions that are not Gaussian.
+
+--> Co-variance
+- Calculation and interpretation of co-variance between variables.
+
+--> Pearson Correlation Coefficient
+- Measure of the linear relationship between two variables.
+
+--> Spearman Rank Correlation Coefficient
+- Non-parametric measure of rank correlation between two variables.
+
+--> Correlation vs Causation
+- Understanding the difference between correlation and causation.
+
+--> How to Use Correlations
+- Practical applications and interpretation of correlation coefficients.
+
+--> Confidence Interval (C.I) Introduction
+- Basics of confidence intervals and their importance.
+
+--> Computing Confidence Interval Given the Underlying Distribution
+- Techniques for calculating confidence intervals based on the data distribution.
+
+--> C.I for Mean of a Normal Random Variable
+- Computing confidence intervals for the mean of normally distributed data.
+
+--> Confidence Interval Using Bootstrapping
+- Method of using bootstrapping to estimate confidence intervals.
+
+--> Hypothesis Testing Methodology, Null-Hypothesis, p-Value
+- Fundamental concepts and steps involved in hypothesis testing.
+
+--> Hypothesis Testing Intuition with Coin Toss Example
+- Simple example to understand the intuition behind hypothesis testing.
+
+--> Resampling and Permutation Test
+- Overview and examples of resampling and permutation tests.
+
+--> K-S Test for Similarity of Two Distributions
+- Kolmogorov-Smirnov test to compare distributions.
+
+--> Code Snippet: K-S Test
+- Example code for performing a K-S test.
+
+--> Hypothesis Testing - Another Example
+- Additional example illustrating hypothesis testing.
+
+--> Resampling and Permutation Test - Another Example
+- Further examples of resampling and permutation tests.
+
+--> How to Use Hypothesis Testing
+- Practical guide on applying hypothesis testing.
+
+--> Proportional Sampling
+- Explanation and examples of proportional sampling techniques.
+
+**How to Use**
+Each topic has its own dedicated section in the notes, containing detailed explanations, formulas, and examples. This repository is ideal for students, educators, and professionals looking to deepen their understanding of probability and statistics.
+
+Contributing:
+Contributions are welcome! If you have additional notes or corrections, feel free to open a pull request or issue.
