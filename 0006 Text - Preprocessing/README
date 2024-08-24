@@ -1,1 +1,49 @@
+Table of Contents
 
+--> Dataset Overview: Amazon Fine Food Reviews (EDA)
+    - Exploratory Data Analysis on the Amazon Fine Food Reviews dataset.
+
+--> Data Cleaning: Deduplication
+    - Techniques for cleaning and deduplicating text data.
+
+--> Why Convert Text to a Vector
+    - The importance and methods of converting text into numerical vectors.
+
+--> Bag of Words (BoW)
+    - Explanation and implementation of the Bag of Words model.
+
+--> Text Preprocessing: Stemming
+    - Techniques for preprocessing text, including stemming.
+
+--> Uni-Gram, Bi-Gram, N-Grams
+    - Understanding and generating uni-grams, bi-grams, and n-grams.
+
+--> TF-IDF (Term Frequency-Inverse Document Frequency)
+    - Explanation of the TF-IDF technique and its significance.
+
+--> Why Use Log in IDF
+    - Rationale behind using logarithms in IDF calculations.
+
+--> Word2Vec
+    - Overview of the Word2Vec model for word embeddings.
+
+--> Avg-Word2Vec, TF-IDF Weighted Word2Vec
+    - Combining Word2Vec with averaging and TF-IDF weighting.
+
+--> Bag of Words (Code Sample)
+    - Example code for implementing Bag of Words.
+
+--> Text Preprocessing (Code Sample)
+    - Code samples for text preprocessing techniques.
+
+--> Bi-Grams and N-Grams (Code Sample)
+    - Implementation examples of bi-grams and n-grams.
+
+--> TF-IDF (Code Sample)
+    - Code for calculating TF-IDF values.
+
+--> Word2Vec (Code Sample)
+    - Example code for generating Word2Vec embeddings.
+
+--> Avg-Word2Vec and TFIDF-Word2Vec (Code Sample)
+    - Implementation of average Word2Vec and TFIDF-Word2Vec.
